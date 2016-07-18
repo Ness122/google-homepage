@@ -48,8 +48,15 @@ background-size: 12px 15px;
 position: relati
 top: 17px;
 right: -5px;
-height: 45px;
+height: 40px;
 width: 760px;
+}
+
+input {
+	height: 45px;
+	width: 150px;
+	margin: 10px;
+	
 }
 
 .footer1{
